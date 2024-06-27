@@ -32,4 +32,8 @@ h2 {
   margin-top: 2em;
 }
 
+footer {
+  text-align: right;
+  color: gray;
+  font-size: 21px;
 }
